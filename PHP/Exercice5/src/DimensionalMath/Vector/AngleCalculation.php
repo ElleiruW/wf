@@ -1,4 +1,5 @@
 <?php
+namespace AngleNameSpace;
 
 function getVectorAngle($vectorA, $vectorB) {
    
