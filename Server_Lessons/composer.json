@@ -1,0 +1,18 @@
+{
+    "name": "etudiant/server_lessons",
+    "description": "comp",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ElleiruW",
+            "email": "m.sandrinelagarde@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+    "psr-4":{
+    "": "src/"}}
+    
+}
